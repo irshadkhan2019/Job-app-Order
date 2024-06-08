@@ -37,6 +37,7 @@
     "pino-pretty": "^11.1.0",
     "redis": "^4.6.14",
     "socket.io": "^4.7.5",
+    "stripe": "^15.10.0",
     "typescript": "^5.4.5",
     "typescript-transform-paths": "^3.4.7",
     "winston": "^3.13.0"
@@ -64,5 +65,4 @@
     "tsc-alias": "^1.8.10",
     "tsconfig-paths": "^4.2.0"
   }
-
 }
